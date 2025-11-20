@@ -1,0 +1,3 @@
+# ignoring .NET ephemeral directories
+obj
+bin
