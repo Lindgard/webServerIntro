@@ -11,3 +11,9 @@ dotnet new web
 ```sh
 dotnet run
 ```
+
+- Startup Web Server / Web API with hot reload
+
+```sh
+dotnet watch
+```
